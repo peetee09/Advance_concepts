@@ -1,0 +1,4 @@
+in order to open program.
+you must download and install python 3.10 incordance with the machine you are using.
+After install open IDLE and open options to files and and select "simple python login"
+Run program. Enter info as instucted.
